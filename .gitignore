@@ -1,0 +1,12 @@
+
+*.bin
+
+*.lock
+
+*.jar
+
+.gradle/
+
+.idea/
+
+app/build/
